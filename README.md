@@ -1,7 +1,5 @@
 ## Hello
-I am a junior currently pursuing my Bachelor's in Computer Science. I love coding and discovering new ways of applying my skills.
-My particular interests are Front End web and mobile development. 
-
+Junior currently pursuing my Bachelor's in Computer Science.
 ## Languages & Technologies
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java,kotlin)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs,jquery,react,qt,mongodb,firebase,ae)](https://skillicons.dev)
